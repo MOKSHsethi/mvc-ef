@@ -13,6 +13,7 @@ namespace Assesment_MVC_EF.Repository
         }
         public User Create(User user)
         {
+            user.IsActive = true;
             _db.Users.Add(user);
             _db.SaveChanges();
             return user;
@@ -61,7 +62,22 @@ namespace Assesment_MVC_EF.Repository
             return _db.Users.FirstOrDefault(x => x.UserID == id);
         }
 
-        public List<User> GetUsers()
+        //public List<UserVm> GetUsers()
+        //{
+        //    var list = (from x in _db.Users
+        //                join y in _db.Users
+                
+        //                select new UserVm
+        //                {
+
+        //                    Name = x.Name,
+        //                    ManagerName = y.Name
+
+        //                }).ToList();
+        //    return list;
+        //}
+
+        List<User> UserInterface.GetUsers()
         {
             return _db.Users.ToList();
         }

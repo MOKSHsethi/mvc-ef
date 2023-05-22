@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Assesment_MVC_EF.Migrations
 {
     [DbContext(typeof(UserDbContext))]
-    [Migration("20230522121002_init1")]
-    partial class init1
+    [Migration("20230522180553_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -38,6 +38,12 @@ namespace Assesment_MVC_EF.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("ManagerName")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")

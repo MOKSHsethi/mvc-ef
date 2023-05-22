@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moksh.Sethi\\source\\repos\\Assesment MVC-EF\\Assesment MVC-EF\\Assesment MVC-EF.csproj": {}
+    "D:\\training\\mvc-ef\\Assesment MVC-EF\\Assesment MVC-EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moksh.Sethi\\source\\repos\\Assesment MVC-EF\\Assesment MVC-EF\\Assesment MVC-EF.csproj": {
+    "D:\\training\\mvc-ef\\Assesment MVC-EF\\Assesment MVC-EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moksh.Sethi\\source\\repos\\Assesment MVC-EF\\Assesment MVC-EF\\Assesment MVC-EF.csproj",
+        "projectUniqueName": "D:\\training\\mvc-ef\\Assesment MVC-EF\\Assesment MVC-EF.csproj",
         "projectName": "Assesment MVC-EF",
-        "projectPath": "C:\\Users\\Moksh.Sethi\\source\\repos\\Assesment MVC-EF\\Assesment MVC-EF\\Assesment MVC-EF.csproj",
-        "packagesPath": "C:\\Users\\Moksh.Sethi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moksh.Sethi\\source\\repos\\Assesment MVC-EF\\Assesment MVC-EF\\obj\\",
+        "projectPath": "D:\\training\\mvc-ef\\Assesment MVC-EF\\Assesment MVC-EF.csproj",
+        "packagesPath": "C:\\Users\\Moksh\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\mvc-ef\\Assesment MVC-EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Moksh.Sethi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moksh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -20,7 +20,7 @@ namespace Assesment_MVC_EF.Controllers
 
         public IActionResult Index()
         {
-            return View(_repo.GetUsers());
+            return View( _repo.GetUsers());
         }
 
 
@@ -29,7 +29,13 @@ namespace Assesment_MVC_EF.Controllers
         public IActionResult Create()
         {
 
+            ViewBag.Roles = new SelectList(Enum.GetValues(typeof(Role)));
+           
+
+            
+           
             return View();
+
         }
         [HttpPost]
         public IActionResult Create(User user)

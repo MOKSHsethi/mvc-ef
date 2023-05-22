@@ -24,8 +24,15 @@
             <th>
                 @Html.DisplayNameFor(model => model.Phone)
             </th>
-            
-
+            <th>
+                @Html.DisplayNameFor(model => model.UserRole)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ManagerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -44,7 +51,15 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Phone)
             </td>
-                
+            <td>
+                @Html.DisplayFor(modelItem => item.UserRole)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManagerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.UserID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.UserID">Details</a> |

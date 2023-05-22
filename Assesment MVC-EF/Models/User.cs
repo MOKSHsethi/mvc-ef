@@ -11,12 +11,16 @@
 
         public string Phone { get; set; }
         public Role UserRole { get; set; }
+        public string? ManagerName { get; set; }
 
-        public enum Role
+        public bool IsActive { get; set; }
+    }
+
+    public enum Role
         {
             Employee,
             Manager, 
-            Admin
+           
         }
-    }
+    
 }
