@@ -28,11 +28,11 @@
                 @Html.DisplayNameFor(model => model.UserRole)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.ManagerName)
+                @Html.DisplayNameFor(model => model.ManagerId)
             </th>
-            <th>
+           @* <th>
                 @Html.DisplayNameFor(model => model.IsActive)
-            </th>
+            </th>*@
             <th></th>
         </tr>
     </thead>
@@ -55,11 +55,11 @@
                 @Html.DisplayFor(modelItem => item.UserRole)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ManagerName)
+                @Html.DisplayFor(modelItem => item.ManagerId)
             </td>
-            <td>
+           @* <td>
                 @Html.DisplayFor(modelItem => item.IsActive)
-            </td>
+            </td>*@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.UserID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.UserID">Details</a> |

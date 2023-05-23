@@ -10,6 +10,8 @@ namespace Assesment_MVC_EF
         User GetUserById(int id);
         int Delete(int id);
         int Edit(int id, User user);
+
+        User Exists(string email, string password);
         
     }
 }

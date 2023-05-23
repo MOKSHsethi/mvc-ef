@@ -77,9 +77,19 @@ namespace Assesment_MVC_EF.Repository
         //    return list;
         //}
 
+        List<User> GetUsers()
+        {
+            return _db.Users.ToList();
+        }
+
         List<User> UserInterface.GetUsers()
         {
             return _db.Users.ToList();
+        }
+
+        public User Exists(string email, string password)
+        {
+            return _db.Users.FirstOrDefault(x => x.Email == email && x.Password == password);
         }
     }
 }

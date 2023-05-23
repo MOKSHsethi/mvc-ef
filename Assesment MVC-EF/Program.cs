@@ -16,6 +16,8 @@ builder.Services.AddDbContext<UserDbContext>(options =>
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<UserInterface , UserRepo>();
+builder.Services.AddTransient<CourseInterface, CourseRepo>();
+builder.Services.AddTransient<BatchInterface, BatchRepo>();
 
 var app = builder.Build();
 

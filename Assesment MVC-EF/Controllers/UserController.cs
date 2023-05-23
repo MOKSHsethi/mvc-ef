@@ -30,10 +30,16 @@ namespace Assesment_MVC_EF.Controllers
         {
 
             ViewBag.Roles = new SelectList(Enum.GetValues(typeof(Role)));
+            ViewData["Managers"] =
+ new SelectList(_repo.GetUsers().Where(x => (int)x.UserRole == 1).ToList(),
+ "UserID", "Name"
+ );
            
 
-            
-           
+
+
+
+
             return View();
 
         }

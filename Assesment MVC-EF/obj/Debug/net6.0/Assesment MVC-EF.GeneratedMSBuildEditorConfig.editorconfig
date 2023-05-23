@@ -9,45 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Assesment_MVC_EF
 build_property.RootNamespace = Assesment_MVC_EF
-build_property.ProjectDir = D:\training\mvc-ef\Assesment MVC-EF\
+build_property.ProjectDir = C:\Users\Moksh.Sethi\source\repos\mvc-ef\Assesment MVC-EF\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\training\mvc-ef\Assesment MVC-EF
+build_property.MSBuildProjectDirectory = C:\Users\Moksh.Sethi\source\repos\mvc-ef\Assesment MVC-EF
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/Home/Index.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Batch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmF0Y2hcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Batch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmF0Y2hcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Batch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmF0Y2hcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Home/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/Home/Privacy.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Home/ManagerDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/Shared/Error.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Requests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Requests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Requests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Requests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Requests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/User/Create.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/User/Index.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/_ViewImports.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/_ViewStart.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/training/mvc-ef/Assesment MVC-EF/Views/Shared/_Layout.cshtml]
+[C:/Users/Moksh.Sethi/source/repos/mvc-ef/Assesment MVC-EF/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-75h5aoxv0z

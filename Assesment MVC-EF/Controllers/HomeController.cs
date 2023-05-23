@@ -28,5 +28,16 @@ namespace Assesment_MVC_EF.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
+        public IActionResult AdminDashboard()
+        {
+            return View();
+        }
+
+        public IActionResult ManagerDashboard()
+        {
+            return View();
+        }
     }
 }

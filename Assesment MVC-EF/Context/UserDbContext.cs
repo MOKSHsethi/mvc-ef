@@ -10,5 +10,12 @@ namespace Assesment_MVC_EF.Context
        public UserDbContext(DbContextOptions<UserDbContext> options) : base(options) { }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
+        public DbSet<Batch> Batches { get; set; }
+
+        public DbSet<LoginViewModel> LoginViewModel { get; set; }
+
+        public DbSet<Request> Request { get; set; }
     }
 }
